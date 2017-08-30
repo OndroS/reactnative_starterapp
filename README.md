@@ -8,18 +8,18 @@ This is my personal test project for starter app in react native with facebook l
 Firstly, you must have installed react-native on your machine. 
 You will need Xcode, node.js, the React Native command line tools, and Watchman:
 
-```gradle
+```bash
 brew install node
 brew install watchman
 ```
 
 Node comes with npm, which lets you install the React Native command line interface.
-```gradle
+```bash
 npm install -g react-native-cli
 ```
 
 Then you're able to run projects so now you can init your own project via:
-```gradle
+```bash
 react-native init AwesomeProject
 cd AwesomeProject
 react-native run-ios
